@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/tom/Documents/GitHub/procomply/css_animation/bon-jovi-demo/app/layout\":[\"static/media/c1b3812ac34fe150-s.p.otf\",\"static/media/38bd66501cd0369e-s.p.otf\",\"static/media/f9cbc96cac453e6f-s.p.otf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
